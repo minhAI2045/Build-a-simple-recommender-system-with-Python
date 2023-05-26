@@ -15,7 +15,9 @@ The first thing to do is to import the necessary modules to build the program.
 import requests
 from bs4 import BeautifulSoup
 import webbrowser
+
 ```
+
 # 2 
 Next, the while loop with the condition always True is used to repeat continuously to make recommendations about the articles that the user wants to see.
 
